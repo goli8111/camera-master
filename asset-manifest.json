@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/camera-master/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/camera-master/static/js/main.1e28c12c.chunk.js",
-    "main.js.map": "/camera-master/static/js/main.1e28c12c.chunk.js.map",
-    "runtime-main.js": "/camera-master/static/js/runtime-main.3de22517.js",
-    "runtime-main.js.map": "/camera-master/static/js/runtime-main.3de22517.js.map",
-    "static/js/2.8475abee.chunk.js": "/camera-master/static/js/2.8475abee.chunk.js",
-    "static/js/2.8475abee.chunk.js.map": "/camera-master/static/js/2.8475abee.chunk.js.map",
+    "main.css": "/camera-master/static/css/main.40cc6a6d.chunk.css",
+    "main.js": "/camera-master/static/js/main.57a85ef1.chunk.js",
+    "main.js.map": "/camera-master/static/js/main.57a85ef1.chunk.js.map",
+    "runtime-main.js": "/camera-master/static/js/runtime-main.a488affa.js",
+    "runtime-main.js.map": "/camera-master/static/js/runtime-main.a488affa.js.map",
+    "static/css/2.fb346933.chunk.css": "/camera-master/static/css/2.fb346933.chunk.css",
+    "static/js/2.ebbe323d.chunk.js": "/camera-master/static/js/2.ebbe323d.chunk.js",
+    "static/js/2.ebbe323d.chunk.js.map": "/camera-master/static/js/2.ebbe323d.chunk.js.map",
     "index.html": "/camera-master/index.html",
-    "precache-manifest.c7e1b88911c43a703dcdd0ce5e185eb8.js": "/camera-master/precache-manifest.c7e1b88911c43a703dcdd0ce5e185eb8.js",
+    "precache-manifest.97e11fa339fd32466d2c4c33ec1ba9f3.js": "/camera-master/precache-manifest.97e11fa339fd32466d2c4c33ec1ba9f3.js",
     "service-worker.js": "/camera-master/service-worker.js",
-    "static/css/main.8ab6f918.chunk.css.map": "/camera-master/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.8475abee.chunk.js.LICENSE.txt": "/camera-master/static/js/2.8475abee.chunk.js.LICENSE.txt"
+    "static/css/2.fb346933.chunk.css.map": "/camera-master/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.40cc6a6d.chunk.css.map": "/camera-master/static/css/main.40cc6a6d.chunk.css.map",
+    "static/js/2.ebbe323d.chunk.js.LICENSE.txt": "/camera-master/static/js/2.ebbe323d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3de22517.js",
-    "static/js/2.8475abee.chunk.js",
-    "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.1e28c12c.chunk.js"
+    "static/js/runtime-main.a488affa.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.ebbe323d.chunk.js",
+    "static/css/main.40cc6a6d.chunk.css",
+    "static/js/main.57a85ef1.chunk.js"
   ]
 }
